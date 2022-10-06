@@ -2,12 +2,12 @@
 
 PM : Aulia Rahman
 
-Awalul Zikri Annur
-Farhan Kamil
-Ilham Afif
-Muhammad Kausar
-Rahmat Dany Rizki
-Muhammad
+Awalul Zikri Annur\
+Farhan Kamil\
+Ilham Afif\
+Muhammad Kausar\
+Rahmat Dany Rizki\
+Muhammad\
 
 <!--
 
