@@ -10,7 +10,7 @@ Rahmat Dany Rizki\
 Muhammad
 
 
-**Detail section:**
+**Detail section:**\
 4. Create and run test suite\
 7. Jenkins and commandline execution \
 11. Mobile Testing \
