@@ -11,7 +11,7 @@ Muhammad
 
 
 **Detail section:**
-4. Create and run test suite
-7. Jenkins and commandline execution 
-11. Mobile Testing 
+4. Create and run test suite\
+7. Jenkins and commandline execution \
+11. Mobile Testing \
 14. BDD | CUCUMBER  
