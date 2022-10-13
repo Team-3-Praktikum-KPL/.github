@@ -4,14 +4,14 @@ PM : Aulia Rahman
 
 Awalul Zikri Annur\
 Farhan Kamil\
-Ilham Afif\
+M. Ilham Afif\
 Muhammad Kausar\
 Rahmat Dany Rizki\
 Muhammad
 
 
 **Detail section:**\
-4. Create and run test suite\
-7. Jenkins and commandline execution \
+4. Create and Run Test Suite\
+7. Jenkins and Commandline Execution \
 11. Mobile Testing \
-14. BDD | CUCUMBER  
+15. Plugins
