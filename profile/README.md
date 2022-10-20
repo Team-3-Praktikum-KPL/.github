@@ -14,4 +14,4 @@ Muhammad
 4. Create and Run Test Suite\
 7. Jenkins and Commandline Execution \
 11. Mobile Testing \
-15. Plugins
+14. BDD Cucumber
